@@ -1,7 +1,4 @@
-# cc_backend_task2
-
-
-# Task: [Recruitment Task 2.pdf](https://github.com/user-attachments/files/16110022/Recruitment.Task.2.pdf)
+# Task: [Task.pdf](https://github.com/user-attachments/files/16110022/Recruitment.Task.2.pdf)
 
 # How to run the server:
 
